@@ -6,4 +6,5 @@ import { Point } from "./shapes/point";
 import { CssConstants } from "./cssConstants";
 import * as manipulation from "./manipulation";
 import { IMargin } from "./imargin";
-export { CssConstants, manipulation, shapesInterfaces, IMargin, IRect, Rect, shapes, Point };
+import * as pointer from "./pointer";
+export { CssConstants, manipulation, shapesInterfaces, IMargin, IRect, Rect, shapes, Point, pointer };

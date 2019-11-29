@@ -1,3 +1,7 @@
+## 2.2.2
+* Export `pointer` module
+* Packages update
+
 ## 2.2.1
 * Packages update
 
